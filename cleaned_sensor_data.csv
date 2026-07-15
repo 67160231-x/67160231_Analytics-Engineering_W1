@@ -1,4 +1,4 @@
-timestamp,device_id,temp_c,motion,battery,data_quality_status
+timestamp,device_id,temp_c,motion,battery,data_quality_status 
 2026-07-12 14:50:00,SN-9982,28.3,false,88.0,Passed
 2026-07-12 14:50:00,SN-9983,28.2,true,94.0,Passed
 2026-07-12 14:50:00,SN-9984,29.7,true,76.0,Passed
